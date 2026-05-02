@@ -248,5 +248,7 @@ Pipeline შეიცავს:
 → feature selection
 → XGBoost
 
+https://dagshub.com/luchit22/ML-fraud-detection.mlflow/#/experiments
+
 ---
 <img width="1492" height="171" alt="Screenshot 2026-05-02 224925" src="https://github.com/user-attachments/assets/1b727ff9-289c-4bb0-abad-9bdcf1c3a6fd" />
